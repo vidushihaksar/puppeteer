@@ -1,0 +1,1 @@
+node parallelPuppeteer.js "credentials.json" "haksarvidushi"
